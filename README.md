@@ -1,1 +1,1 @@
-# QG
+# MyQuiz
